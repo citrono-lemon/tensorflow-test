@@ -1,1 +1,3 @@
 /images/
+/download/*
+!/download/download.sh
